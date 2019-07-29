@@ -10,7 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/lucagrandicelli/a-world-of-countries.git"
   },
-  "keywords": [],
+  "keywords": [
+    "geography",
+    "countries",
+    "nations",
+    "world",
+    "world nations",
+    "languages",
+    "currency",
+    "ISO Standard 3166-1"
+  ],
   "author": "Luca Grandicelli <luca.grandicelli79@gmail.com>",
   "license": "MIT",
   "bugs": {
