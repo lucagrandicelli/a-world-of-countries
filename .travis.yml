@@ -1,7 +1,5 @@
 language: node_js
 node_js:
   - 10
-install:
-  - cd a-world-of-countries && npm install && cd ..
 script:
   - cd a-world-of-countries && npm test
