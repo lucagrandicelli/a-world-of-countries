@@ -3,6 +3,8 @@
 ![](images/awoc-cover.jpg)
 A World of Countries (AWOC) is a fully-featured library that provides an easy layer to access mutiple data about world continents and countries, according to the ISO Standard 3166-1.
 
+![https://api.travis-ci.org/lucagrandicelli/a-world-of-countries.svg?branch=master](https://api.travis-ci.org/lucagrandicelli/a-world-of-countries.svg?branch=master)
+
 ## Installation
 
 ```
