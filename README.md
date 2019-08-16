@@ -284,7 +284,7 @@ const capitalOfItaly = myWorld.getCountryCapitalCity('Italy')
 **Description**: this method returns a time zone value for the specific country.
 
 ```javascript
-const italyContinentCode = myWorld.getCountryTimeZone('Italy')
+const italyTimeZone = myWorld.getCountryTimeZone('Italy')
 // Returns: 'Europe/Rome'
 ```
 
