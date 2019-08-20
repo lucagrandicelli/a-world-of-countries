@@ -6,6 +6,8 @@ A World of Countries (AWOC) is a fully-featured library that provides an easy la
 ![https://api.travis-ci.org/lucagrandicelli/a-world-of-countries.svg?branch=master](https://api.travis-ci.org/lucagrandicelli/a-world-of-countries.svg?branch=master)
 [![CircleCI](https://circleci.com/gh/lucagrandicelli/a-world-of-countries.svg?style=svg)](https://circleci.com/gh/lucagrandicelli/a-world-of-countries)
 
+*Note*: A Python version of this library is available [https://github.com/lucagrandicelli/a-world-of-countries-py](here)
+
 ## Installation
 
 ```
