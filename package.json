@@ -4,6 +4,7 @@
   "description": "A comprehensive library API to retrieve collections of data about continents & countries, as defined by the ISO Standard 3166-1.",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "test": "mocha"
   },
   "repository": {
@@ -30,10 +31,14 @@
     "chai": "^4.2.0",
     "chai-json": "^1.0.0",
     "chai-json-schema": "^1.5.1",
-    "mocha": "^6.1.4"
+    "minimist": "^1.2.5",
+    "mocha": "^6.2.2"
   },
   "dependencies": {
     "convert-units": "^2.3.4",
     "lodash": "^4.17.15"
+  },
+  "resolutions": {
+    "minimist": "^1.2.5"
   }
 }
