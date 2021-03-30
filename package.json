@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/lucagrandicelli/a-world-of-countries.git"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "geography",
     "countries",
