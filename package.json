@@ -34,7 +34,7 @@
     "chai": "^4.2.0",
     "chai-json": "^1.0.0",
     "chai-json-schema": "^1.5.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mocha": "^6.2.2"
   },
   "dependencies": {
@@ -42,6 +42,6 @@
     "lodash": ">=4.17.19"
   },
   "resolutions": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
